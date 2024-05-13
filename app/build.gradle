@@ -62,7 +62,7 @@ dependencies {
     //noinspection GroovyUnusedAssignment
     def arch_version = "2.1.0"
     def room_version = "2.6.1"
-    def coroutines_version = "1.8.0"
+    def coroutines_version = "1.8.1"
     def dagger_version = "2.51.1"
     def retrofit_version = "2.11.0"
     def Interceptor_version = "4.12.0"
