@@ -63,7 +63,7 @@ dependencies {
     def arch_version = "2.1.0"
     def room_version = "2.8.4"
     def coroutines_version = "1.10.2"
-    def dagger_version = "2.58"
+    def dagger_version = "2.59"
     def retrofit_version = "3.0.0"
     def Interceptor_version = "5.3.2"
     def Glide_version = "5.0.5"
